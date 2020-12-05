@@ -12,3 +12,6 @@ Here is an output  of the program :
 
 the workflow of the program:
 ![](https://raw.githubusercontent.com/fenil29/vehicle-speed-detection/master/files/flowchart.png)
+
+# Developers
+Fenil Kaneria, Jigar Mehta
